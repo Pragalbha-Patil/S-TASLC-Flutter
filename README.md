@@ -1,6 +1,6 @@
-# s_taslc
+# S-TASLC
 
-A new Flutter project.
+A Speech to American sign language converter Flutter project.
 
 ## Getting Started
 
